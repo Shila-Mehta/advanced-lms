@@ -90,13 +90,3 @@ cd advanced-lms
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-🙏 Acknowledgments
-
-UI components inspired by shadcn/ui
-
-Icons provided by Lucide React
-
-Database design patterns from various open-source LMS projects
-
-Built with ❤️ for the education community
-
