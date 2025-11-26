@@ -42,6 +42,19 @@ A modern, full-stack Learning Management System built with Next.js, Node.js, Mon
 <img width="1328" height="551" alt="image" src="https://github.com/user-attachments/assets/1d24f818-1fc4-4118-b2f1-04366bba57e0" />
 
 
+## Course Player Page 
+<img width="1317" height="530" alt="image" src="https://github.com/user-attachments/assets/c9ed6509-84e6-4a4d-9e65-a6b2f2c71a88" />
+<img width="1334" height="413" alt="image" src="https://github.com/user-attachments/assets/747b103a-17e8-48cf-af9e-30d8308d109e" />
+
+## Dashboard Page
+<img width="1335" height="600" alt="image" src="https://github.com/user-attachments/assets/bee0baa8-cc5d-47ec-ade4-ceaf9f19c5be" />
+<img width="1340" height="547" alt="image" src="https://github.com/user-attachments/assets/3d39ccb5-37ea-495f-9280-175f5ff6a374" />
+
+
+
+
+
+
 
 
 
