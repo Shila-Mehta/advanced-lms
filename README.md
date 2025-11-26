@@ -28,6 +28,20 @@ A modern, full-stack Learning Management System built with Next.js, Node.js, Mon
 
 ---
 
+
+<img width="1335" height="441" alt="image" src="https://github.com/user-attachments/assets/5cf98bd9-df07-4cf1-8632-17ec8eb6f3e0" />
+<img width="1339" height="403" alt="image" src="https://github.com/user-attachments/assets/7fd5c332-d936-49e8-95be-41ed1e35487f" />
+<img width="1336" height="543" alt="image" src="https://github.com/user-attachments/assets/ad5d4fff-1dd5-448b-912e-5f709b7e3b85" />
+<img width="1340" height="405" alt="image" src="https://github.com/user-attachments/assets/1594a888-cab1-4ae1-9a41-6d62fb339aad" />
+<img width="1346" height="403" alt="image" src="https://github.com/user-attachments/assets/923396cb-63fa-4236-bc4a-7bbd2f4a470e" />
+<img width="1336" height="271" alt="image" src="https://github.com/user-attachments/assets/ffcb352f-6ca8-46cb-9ae9-8e17696134a1" />
+
+
+
+
+
+
+
 ## 👥 User Roles
 
 | Role       | Capabilities |
