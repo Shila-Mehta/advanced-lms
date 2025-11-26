@@ -1,4 +1,4 @@
-🎓 Advanced Learning Management System (LMS)
+## 🎓 Advanced Learning Management System (LMS)
 A modern, full-stack Learning Management System built with Next.js, Node.js, MongoDB, and TypeScript. This enterprise-grade platform provides comprehensive course management, interactive learning experiences, and multi-role dashboards for administrators, instructors, and students.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
@@ -8,10 +8,12 @@ A modern, full-stack Learning Management System built with Next.js, Node.js, Mon
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) 
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 
 
-✨ Features
-🎯 Core Capabilities
+
+## ✨ Features
+
 Multi-role Dashboards (Admin, Instructor, Student)
 
 Course Management - Create, edit, and organize courses
@@ -24,12 +26,16 @@ Certificate Generation - Automated certificate issuance
 
 Responsive Design - Mobile-first approach for all devices
 
-👥 User Roles
-Role	Capabilities
+## 👥 User Roles
+
 Admin	User management, system analytics, course oversight
+
 Instructor	Course creation, student progress monitoring, content management
+
 Student	Course enrollment, learning progress, certificate earning
-🛠 Technical Features
+
+## 🛠 Technical Features
+
 JWT Authentication with role-based access control
 
 File Upload for course materials and resources
@@ -44,7 +50,7 @@ RESTful APIs with comprehensive error handling
 
 MongoDB with Mongoose ODM for flexible data modeling
 
-🏗 Architecture
+## 🏗 Architecture
 text
 advanced-lms/
 ├── 🎨 frontend/                 # Next.js 14+ Application
