@@ -1,24 +1,15 @@
 🎓 Advanced Learning Management System (LMS)
 A modern, full-stack Learning Management System built with Next.js, Node.js, MongoDB, and TypeScript. This enterprise-grade platform provides comprehensive course management, interactive learning experiences, and multi-role dashboards for administrators, instructors, and students.
 
-https://img.shields.io/badge/Status-Ready-green
-
-https://img.shields.io/badge/Version-1.0.0-blue
-
-https://img.shields.io/badge/Database-MongoDB-green
-
-https://img.shields.io/badge/License-MIT-orange
-
-https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white
-
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
-
-https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
-
-https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white
-
-https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white
-
+![Status](https://img.shields.io/badge/Status-Ready-green) 
+![Version](https://img.shields.io/badge/Version-1.0.0-blue) 
+![Database](https://img.shields.io/badge/Database-MongoDB-green) 
+![License](https://img.shields.io/badge/License-MIT-orange) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) 
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
 
 ✨ Features
