@@ -48,10 +48,10 @@ A modern, full-stack Learning Management System built with Next.js, Node.js, Mon
 - RESTful APIs with comprehensive error handling  
 - MongoDB with Mongoose ODM for flexible data modeling  
 
----
+
 
 ## 🏗 Architecture
-
+```
 advanced-lms/
 ├── 🎨 frontend/ # Next.js 14+ Application
 │ ├── src/app/ # App Router pages
@@ -65,9 +65,8 @@ advanced-lms/
 │ └── src/middlewares/ # Authentication & validation
 └── 🐳 docker-compose.yml # Container orchestration
 
+```
 
-
----
 
 ## 🚀 Quick Start
 
