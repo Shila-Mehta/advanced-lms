@@ -52,3 +52,51 @@ A modern, full-stack Learning Management System built with Next.js, Node.js, Mon
 
 ## 🏗 Architecture
 
+advanced-lms/
+├── 🎨 frontend/ # Next.js 14+ Application
+│ ├── src/app/ # App Router pages
+│ ├── src/components/ # Reusable UI components
+│ ├── src/redux/ # State management
+│ └── src/lib/ # Utilities and configurations
+├── ⚙️ backend/ # Node.js API Server
+│ ├── src/controllers/ # Route controllers
+│ ├── src/models/ # MongoDB models
+│ ├── src/routes/ # API routes
+│ └── src/middlewares/ # Authentication & validation
+└── 🐳 docker-compose.yml # Container orchestration
+
+
+
+---
+
+## 🚀 Quick Start
+
+**Prerequisites:**  
+
+- Node.js 18+  
+- Docker & Docker Compose  
+- MongoDB (included in Docker setup)  
+
+**Installation:**  
+
+```bash
+# Clone the repository
+git clone https://github.com/your-org/advanced-lms.git
+cd advanced-lms
+
+
+
+📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+🙏 Acknowledgments
+
+UI components inspired by shadcn/ui
+
+Icons provided by Lucide React
+
+Database design patterns from various open-source LMS projects
+
+Built with ❤️ for the education community
+
