@@ -1,0 +1,27 @@
+# Node stuff
+node_modules
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Next.js build output
+.next
+out
+
+# Backend build output
+dist
+
+# Docker & git
+Dockerfile
+.dockerignore
+docker-compose*.yml
+.git
+.gitignore
+*.log
+
+
+# OS / editor files
+.DS_Store
+*.swp
+*.swo
