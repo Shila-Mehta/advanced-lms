@@ -2,8 +2,11 @@
 A modern, full-stack Learning Management System built with Next.js, Node.js, MongoDB, and TypeScript. This enterprise-grade platform provides comprehensive course management, interactive learning experiences, and multi-role dashboards for administrators, instructors, and students.
 
 https://img.shields.io/badge/Status-Production%2520Ready-green
+
 https://img.shields.io/badge/Version-1.0.0-blue
+
 https://img.shields.io/badge/License-MIT-orange
+
 https://img.shields.io/badge/Database-MongoDB-green
 
 ✨ Features
