@@ -54,17 +54,28 @@ MongoDB with Mongoose ODM for flexible data modeling
 text
 advanced-lms/
 ├── 🎨 frontend/                 # Next.js 14+ Application
+
 │   ├── src/app/                # App Router pages
+
 │   ├── src/components/         # Reusable UI components
+
 │   ├── src/redux/              # State management
+
 │   └── src/lib/                # Utilities and configurations
+
 ├── ⚙️ backend/                  # Node.js API Server
+
 │   ├── src/controllers/        # Route controllers
+
 │   ├── src/models/             # MongoDB models
+
 │   ├── src/routes/             # API routes
+
 │   └── src/middlewares/        # Authentication & validation
+
 └── 🐳 docker-compose.yml       # Container orchestration
-🚀 Quick Start
+
+## 🚀 Quick Start
 Prerequisites
 Node.js 18+
 
